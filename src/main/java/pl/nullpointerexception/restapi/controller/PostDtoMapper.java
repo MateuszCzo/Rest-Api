@@ -1,5 +1,6 @@
-package pl.nullpointerexception.restapi.controller.dto;
+package pl.nullpointerexception.restapi.controller;
 
+import pl.nullpointerexception.restapi.controller.dto.PostDto;
 import pl.nullpointerexception.restapi.model.Post;
 
 import java.util.List;
